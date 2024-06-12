@@ -1,5 +1,7 @@
 # React Chrome Extension Boilerplate with Typescript & Tailwind CSS
 
+Works with Node version 16.x
+
 ## Getting Started
 
 1. `npm i` to install dependancies
